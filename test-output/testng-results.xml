@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31393" started-at="2020-11-04T16:12:53 IST" finished-at="2020-11-04T16:13:25 IST">
+    <groups>
+      <group name="regression">
+        <method signature="TC_003.amazon()[pri:0, instance:com.project.TC_003@e320068]" name="amazon" class="com.project.TC_003"/>
+      </group> <!-- regression -->
+    </groups>
+    <test name="Test" duration-ms="31393" started-at="2020-11-04T16:12:53 IST" finished-at="2020-11-04T16:13:25 IST">
+      <class name="com.project.TC_003">
+        <test-method status="PASS" signature="startProcess(java.lang.String)[pri:0, instance:com.project.TC_003@e320068]" name="startProcess" is-config="true" duration-ms="20030" started-at="2020-11-04T16:12:53 IST" finished-at="2020-11-04T16:13:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method status="PASS" signature="amazon()[pri:0, instance:com.project.TC_003@e320068]" name="amazon" duration-ms="6485" started-at="2020-11-04T16:13:14 IST" finished-at="2020-11-04T16:13:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon -->
+        <test-method status="PASS" signature="endProcess()[pri:0, instance:com.project.TC_003@e320068]" name="endProcess" is-config="true" duration-ms="4778" started-at="2020-11-04T16:13:20 IST" finished-at="2020-11-04T16:13:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+      </class> <!-- com.project.TC_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

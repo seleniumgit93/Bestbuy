@@ -1,0 +1,29 @@
+2020-04-10 13:05:53 INFO  TC_002:16 - Started initialization of property files: data,or,env...
+2020-04-10 13:05:53 INFO  TC_002:16 - Started initialization of property files: data,or,env...
+2020-04-10 13:06:06 INFO  TC_002:18 - opened browser: chrome
+2020-04-10 13:06:06 INFO  TC_002:18 - opened browser: chrome
+2020-04-10 13:06:11 INFO  TC_002:16 - Started initialization of property files: data,or,env...
+2020-04-10 13:06:18 INFO  TC_002:18 - opened browser: chrome
+2020-04-10 13:06:25 INFO  TC_002:20 - Navigate to url: https://www.amazon.in
+2020-04-10 13:06:26 INFO  TC_002:23 - Selected drop down item: Books by using the locator searchDropdownBox
+2020-04-10 13:06:27 INFO  TC_002:25 - Entered value in searchbox: Harry potter by using the locator twotabsearchtextbox
+2020-04-13 13:14:40 INFO  TC_002:16 - Started initialization of property files: data,or,env...
+2020-04-13 13:14:56 INFO  TC_002:18 - opened browser: chrome
+2020-04-13 13:15:03 INFO  TC_002:20 - Navigate to url: https://www.amazon.in
+2020-04-13 13:15:06 INFO  TC_002:23 - Selected drop down item: Books by using the locator searchDropdownBox
+2020-04-13 13:15:07 INFO  TC_002:25 - Entered value in searchbox: Harry potter by using the locator twotabsearchtextbox
+2020-04-13 13:15:14 INFO  TC_002:27 - Clicked on search button: by using the locator //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2020-04-17 11:14:46 INFO  TC_002:16 - Started initialization of property files: data,or,env...
+2020-04-17 11:15:19 INFO  TC_002:16 - Started initialization of property files: data,or,env...
+2020-04-17 11:17:22 INFO  TC_002:16 - Started initialization of property files: data,or,env...
+2020-09-07 23:00:12 INFO  Retry:50 -  Retrying test amazon with status FAILURE for the 1 time(s).
+2020-09-07 23:00:28 INFO  Retry:50 -  Retrying test amazon with status FAILURE for the 2 time(s).
+2020-09-09 22:52:45 INFO  Retry:50 -  Retrying test amazon with status FAILURE for the 1 time(s).
+2020-09-09 22:53:31 INFO  Retry:50 -  Retrying test amazon with status FAILURE for the 2 time(s).
+2020-09-09 23:02:35 INFO  Retry:51 -  Retrying test amazon with status FAILURE for the 1 time(s).
+2020-09-09 23:15:08 INFO  Retry:51 -  Retrying test amazon with status FAILURE for the 1 time(s).
+2020-09-14 21:40:52 INFO  Retry:51 -  Retrying test amazon with status FAILURE for the 1 time(s).
+2020-10-26 15:23:07 INFO  Retry:51 -  Retrying test amazon with status FAILURE for the 1 time(s).
+2020-10-26 15:24:56 INFO  Retry:51 -  Retrying test amazon with status FAILURE for the 1 time(s).
+2020-10-26 15:51:50 INFO  Retry:51 -  Retrying test amazon with status FAILURE for the 1 time(s).
+2020-10-26 17:41:38 INFO  Retry:51 -  Retrying test amazon with status FAILURE for the 1 time(s).
